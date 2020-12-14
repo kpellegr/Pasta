@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pasta</string>
+    <string name="confirmation">Text copied to clipboard.</string>
+</resources>
